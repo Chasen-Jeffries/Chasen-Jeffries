@@ -4,7 +4,7 @@ I am a 3rd year PhD student at Claremont Graduate University, specializing in In
 
 ---
 ### **My Languages:**
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)

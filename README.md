@@ -10,8 +10,8 @@ I am a 3rd year PhD student at Claremont Graduate University, specializing in In
 - **Predicting Government Change:** Developing an ensemble model for predicting Irregular Government Change in Python, leveraging diverse analytical techniques to enhance the accuracy and reliability of forecasting political shifts.
 
 #### 🌱 **I'm Currently Learning:**
-- **Skills Enhancement:** Focused on SQL and Tableau for improved data visualization and database management.
-- **Objective:** To access and effectively articulate complex datasets.
+- **SQL** Diving into database management and complex data querying to enhance my analytical capabilities.
+- **Tableau:** Focusing on mastering this powerful tool to bring data to life through compelling and clear visualizations.
 
 ---
 
@@ -22,7 +22,6 @@ I'm always open to discussions, collaborations, or just a chat about data, polit
 - 🌐 Check out my [personal website](https://chasen-jeffries.github.io/)
 
 ---
-
 
 
 <!--

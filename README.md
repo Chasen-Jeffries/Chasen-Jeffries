@@ -1,26 +1,23 @@
-### Hello! 👋 I'm Chasen Jeffries
+### Hello World! 👋 
+
+I am Chasen Jeffries a PhD student in international Relations and Political Science, with a focus on International Political Economy and Computational Analytics. You can check out my [personal website](https://chasen-jeffries.github.io/) to learn more about me.
 
 ---
 
-🎓 **PhD Student in International Relations and Political Science**  
-🌐 **Focusing on International Political Economy & Computational Analytics**  
-👀 **Explore My Journey:** [Personal Website](https://chasen-jeffries.github.io/)
+#### 🚀 **Current Projects:**
+- **Dissertation:** Examining patent systems' effects on innovation and economic growth.
+- **Simulation:** Exploring Olson's 'Roaming vs Stationary Bandits' through Agent-Based Modeling (ABM).
+- **Predictive Analysis:** Developing an ensemble model for predicting Irregular Government Change in Python.
+
+#### 🌱 **I'm Currently Learning:**
+- **Skills Enhancement:** Focused on SQL and Tableau for improved data visualization and database management.
+- **Objective:** To access and effectively articulate complex datasets.
 
 ---
 
-#### 🚀 **Current Endeavors:**
-- **Dissertation Research:** Investigating the influence of patent systems on innovation and economic growth.
-- **Simulation Project:** Delving into Olson's 'Roaming vs Stationary Bandits' theory.
-- **Predictive Modeling:** Crafting a model to foresee Irregular Government Changes.
+🤝 **Connect and Collaborate:**  
+I'm always open to discussions, collaborations, or just a chat about data, politics, and everything in between. Reach out and let's see where our ideas can take us!
 
-#### 🌿 **Expanding My Horizons:**
-- **Learning:** SQL and Tableau for efficient database management and advanced data visualization.
-- **Goal:** To unlock new datasets and master the art of conveying complex information effectively.
-
----
-
-🤝 **Let's Connect and Collaborate:**  
-Feel free to reach out for discussions or potential collaborations. I'm always open to sharing ideas and exploring new perspectives in the fascinating world of data and politics!
 - 📫 How to reach me: Email me at jeffriesc15@gmail.com
 
   

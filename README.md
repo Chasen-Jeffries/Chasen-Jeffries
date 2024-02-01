@@ -1,15 +1,21 @@
-### Hello! 👋 I am Chasen Jeffries
+## Hello! 👋 I am Chasen Jeffries
 
 I am a 3rd year PhD student at Claremont Graduate University, specializing in International Political Economy and Computational Analytics.
 
 ---
+### **My Languages:**
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
-#### 🚀 **My Current Projects:**
+
+### 🚀 **My Current Projects:**
 - **Dissertation:** Examines the impact of patent systems on innovation and economic growth, exploring how different intellectual property regimes influence the development and dissemination of new technologies and ideas in various political and economic contexts.
 - **Simulating Olson's Bandits:** Explores Olson's 'Roaming vs Stationary Bandits' through Agent-Based Modeling (ABM) to analyze how these governance models impact societal and economic outcomes in a dynamic framework.
 - **Predicting Government Change:** Developing an ensemble model for predicting Irregular Government Change in Python, leveraging diverse analytical techniques to enhance the accuracy and reliability of forecasting political shifts.
 
-#### 🌱 **I'm Currently Learning:**
+### 🌱 **I'm Currently Learning:**
 - **SQL:** Diving into database management and complex data querying to enhance my analytical capabilities.
 - **Tableau:** Focusing on mastering this powerful tool to bring data to life through compelling and clear visualizations.
 

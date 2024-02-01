@@ -23,15 +23,13 @@ I'm always open to discussions, collaborations, or just a chat about data, polit
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=chasen-jeffries)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasen-jeffries&layout=compact&count_private=true)
-
 
 
 <!--
 
- ![Chasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasen-jeffries&show_icons=true)
-
+![Chasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasen-jeffries&show_icons=true)
+![Chasen's trophy](https://github-profile-trophy.vercel.app/?username=chasen-jeffries)
+![Chasen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasen-jeffries&layout=compact&count_private=true)
 **Chasen-Jeffries/Chasen-Jeffries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

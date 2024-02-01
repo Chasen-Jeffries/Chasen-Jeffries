@@ -1,13 +1,13 @@
-### Hello World! 👋 
+### Hello! 👋 I am Chasen Jeffries
 
-I am Chasen Jeffries a PhD student in international Relations and Political Science, with a focus on International Political Economy and Computational Analytics. You can check out my [personal website](https://chasen-jeffries.github.io/) to learn more about me.
+I am a 3rd year PhD student at Claremont Graduate University, specializing in International Political Economy and Computational Analytics.
 
 ---
 
 #### 🚀 **Current Projects:**
-- **Dissertation:** Examining patent systems' effects on innovation and economic growth.
-- **Simulation:** Exploring Olson's 'Roaming vs Stationary Bandits' through Agent-Based Modeling (ABM).
-- **Predictive Analysis:** Developing an ensemble model for predicting Irregular Government Change in Python.
+- **Dissertation:** Examines the impact of patent systems on innovation and economic growth, exploring how different intellectual property regimes influence the development and dissemination of new technologies and ideas in various political and economic contexts.
+- **Simulation:** Explores Olson's 'Roaming vs Stationary Bandits' through Agent-Based Modeling (ABM) to analyze how these governance models impact societal and economic outcomes in a dynamic framework.
+- **Predictive Analysis:** Developing an ensemble model for predicting Irregular Government Change in Python, leveraging diverse analytical techniques to enhance the accuracy and reliability of forecasting political shifts.
 
 #### 🌱 **I'm Currently Learning:**
 - **Skills Enhancement:** Focused on SQL and Tableau for improved data visualization and database management.
@@ -18,9 +18,13 @@ I am Chasen Jeffries a PhD student in international Relations and Political Scie
 🤝 **Connect and Collaborate:**  
 I'm always open to discussions, collaborations, or just a chat about data, politics, and everything in between. Reach out and let's see where our ideas can take us!
 
-- 📫 How to reach me: Email me at jeffriesc15@gmail.com
+- 📧 Email me at jeffriesc15@gmail.com
+- 🌐 My [personal website](https://chasen-jeffries.github.io/). 
 
-  
+---
+
+![Chasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasen-jeffries&show_icons=true)
+
 <!--
 **Chasen-Jeffries/Chasen-Jeffries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

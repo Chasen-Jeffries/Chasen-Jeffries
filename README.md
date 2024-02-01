@@ -24,7 +24,7 @@ I'm always open to discussions, collaborations, or just a chat about data, polit
 ---
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chasen-jeffries)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasen-jeffries&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasen-jeffries&layout=compact&count_private=true)
 
 
 

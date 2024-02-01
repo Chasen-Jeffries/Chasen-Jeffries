@@ -4,7 +4,7 @@ I am a 3rd year PhD student at Claremont Graduate University, specializing in In
 
 ---
 
-#### 🚀 **Current Projects:**
+#### 🚀 **My Current Projects:**
 - **Dissertation:** Examines the impact of patent systems on innovation and economic growth, exploring how different intellectual property regimes influence the development and dissemination of new technologies and ideas in various political and economic contexts.
 - **Simulation:** Explores Olson's 'Roaming vs Stationary Bandits' through Agent-Based Modeling (ABM) to analyze how these governance models impact societal and economic outcomes in a dynamic framework.
 - **Predictive Analysis:** Developing an ensemble model for predicting Irregular Government Change in Python, leveraging diverse analytical techniques to enhance the accuracy and reliability of forecasting political shifts.

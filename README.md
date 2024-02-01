@@ -10,7 +10,7 @@ I am a 3rd year PhD student at Claremont Graduate University, specializing in In
 - **Predicting Government Change:** Developing an ensemble model for predicting Irregular Government Change in Python, leveraging diverse analytical techniques to enhance the accuracy and reliability of forecasting political shifts.
 
 #### 🌱 **I'm Currently Learning:**
-- ***SQL:*** Diving into database management and complex data querying to enhance my analytical capabilities.
+- **SQL:** Diving into database management and complex data querying to enhance my analytical capabilities.
 - **Tableau:** Focusing on mastering this powerful tool to bring data to life through compelling and clear visualizations.
 
 ---

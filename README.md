@@ -23,6 +23,9 @@ I'm always open to discussions, collaborations, or just a chat about data, polit
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=chasen-jeffries)
+
+
 <!--
 
  ![Chasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasen-jeffries&show_icons=true)

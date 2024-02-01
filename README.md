@@ -19,7 +19,7 @@ I am a 3rd year PhD student at Claremont Graduate University, specializing in In
 I'm always open to discussions, collaborations, or just a chat about data, politics, and everything in between. Reach out and let's see where our ideas can take us!
 
 - 📧 Email me at jeffriesc15@gmail.com
-- 🌐 My [personal website](https://chasen-jeffries.github.io/). 
+- 🌐 Check out my [personal website](https://chasen-jeffries.github.io/)
 
 ---
 

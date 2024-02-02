@@ -7,7 +7,7 @@ I am a 3rd year PhD student at Claremont Graduate University, specializing in In
 ### 🚀 **My Current Projects:**
 - **Dissertation:** Examines the impact of patent systems on innovation and economic growth, exploring how different intellectual property regimes influence the development and dissemination of new technologies and ideas in various political and economic contexts.
 - **Simulating Olson's Bandits:** Explores Olson's 'Roving vs Stationary Bandits' through Agent-Based Modeling (ABM) to analyze how these governance models impact societal and economic outcomes in a dynamic framework.
-- **Predicting Government Change:** Developing an ensemble model for predicting Irregular Government Change in Python, leveraging diverse analytical techniques to enhance the accuracy and reliability of forecasting political shifts.
+- **Predicting Political Instability:** Developing an ensemble model for predicting Political Instability in Python, leveraging diverse analytical techniques to enhance the accuracy and reliability of forecasting political shifts.
 
 ### 🌱 **I'm Currently Learning:**
 - **SQL:** Diving into database management and complex data querying to enhance my analytical capabilities.

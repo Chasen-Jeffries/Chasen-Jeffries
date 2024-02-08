@@ -1,6 +1,6 @@
 ## Hello! 👋 I am Chasen Jeffries
 
-I am a 3rd year PhD student at Claremont Graduate University, specializing in International Political Economy and Computational Analytics.
+I bring my unique blend of expertise in International relations and political science with cutting-edge analytics skills to find new ways to solve big political and economic problems.
 
 ---
 

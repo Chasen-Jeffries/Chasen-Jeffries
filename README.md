@@ -1,6 +1,6 @@
-## Hello! 👋
+## Hello! 👋 I am Chasen Jeffries
 
-I bring my unique blend of expertise in International relations and political science with cutting-edge analytics skills to find new ways to solve big political and economic problems.
+I use my unique blend of expertise in International relations and political science with cutting-edge analytics skills to find new ways to solve big political and economic problems.
 
 ---
 

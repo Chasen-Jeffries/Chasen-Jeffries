@@ -5,7 +5,7 @@ I am a 3rd year PhD student at Claremont Graduate University, specializing in In
 ---
 
 ### 🚀 **My Current Projects:**
-- **Dissertation:** This study explores the role of patent systems in boosting innovation and economic growth. It seeks to improve how we measure their effects, understand their impact, and identify the best form of patent protection for countries
+- **Dissertation:** This study explores the role of patent systems in boosting innovation and economic growth. It seeks to improve how we measure them, understand their impact, and identify the best form of patent protections for countries
 - **Simulating Olson's Bandits:** This research uses Agent-Based Modeling to study Olson's 'Roving vs Stationary Bandits' concept, focusing on how different governance styles affect society and the economy.
 - **Predicting Political Instability:** This project creates an ensemble model to forecast political instability, providing insights for proactive measures and strategic planning.
 

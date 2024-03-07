@@ -6,7 +6,7 @@ I use my unique blend of expertise in international relations and political scie
 
 ### 🚀 **My Current Projects:**
 - **Dissertation:** This study explores the role of patent systems in boosting innovation and economic growth. It seeks to improve how we measure them, understand their impact, and identify the best form of patent protections for countries
-- **Simulating Olson's Bandits:** This research uses Agent-Based Modeling to study Olson's 'Roving vs Stationary Bandits' concept, offering a new understanding of how different governance styles affect society and the economy.
+- **Simulating Olson's Bandits:** This research uses Agent-Based Modeling to study Olson's 'Roving vs Stationary Bandits' concept, offering a new understanding of how governments arise and different governance styles affect society and the economy.
 - **Predicting Political Instability:** This project creates an ensemble model to forecast political instability, providing insights for proactive measures and strategic planning.
 
 ### 🌱 **I'm Currently Learning:**

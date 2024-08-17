@@ -10,7 +10,7 @@ I use my unique blend of expertise in international relations and political scie
 - **Predicting Political Instability:** This project creates an ensemble model to forecast political instability, providing insights for proactive measures and strategic planning.
 
 ### 🌱 **I'm Currently Learning:**
-- **SQL:** Diving into database management and complex data querying to enhance my analytical capabilities.
+- **AI Tools:** Working with Claude, Gemini and other AI models to enhance my research, teaching, and writing.
 - **Tableau:** Focusing on mastering this powerful tool to bring data to life through compelling and clear visualizations.
 
 ---

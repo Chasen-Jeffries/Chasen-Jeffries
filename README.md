@@ -6,7 +6,7 @@ I use my unique blend of expertise in international relations and political scie
 
 ### 🚀 **My Current Projects:**
 - **Dissertation:** This study explores the role of patent systems in boosting innovation and economic growth. It seeks to improve how we measure them, understand their impact, and identify the best form of patent protections for countries
-- **Personal Website:** I am updating my personal website to improve its form and function, creating a better avenue to display my work and accomplishments.
+- **Personal Website:** I am redesigning my personal website to improve its form and function, creating a better avenue to display my work and accomplishments.
 
 ### 🌱 **I'm Currently Learning:**
 - **AI Tools:** Working with Claude, Gemini and other AI models to enhance my research, teaching, and writing.
